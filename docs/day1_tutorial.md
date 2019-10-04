@@ -1,4 +1,4 @@
-## Day0 - Configurações
+## Day1 - Configurações
 
 #### Instalando o *Node.js*
 - Linux: https://github.com/nodesource/distributions/blob/master/README.md
