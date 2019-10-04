@@ -60,7 +60,7 @@
 - em *src/config* crie o arquivo *upload.js* que ficará responsável por salvar os arquivos neste diretório
 
 #### MVC
-- sem a camda *views* já que é uma API
+- sem a camada *views* já que é uma API
 - *models*:
   - Representa uma entidade da aplicação
   - Uma tabela no banco de dados
