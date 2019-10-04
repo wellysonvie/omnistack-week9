@@ -1,4 +1,4 @@
-## Day1 - Backend em Node.js
+## Day2 - Backend em Node.js
 
 #### Iniciando o projeto
 - `mkdir backend` e `cd backend`
